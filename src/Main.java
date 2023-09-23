@@ -6,6 +6,9 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.println("test");
+        System.out.println("test2");
+        System.out.println("test3");
+        System.out.println("test4");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
